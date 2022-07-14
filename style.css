@@ -1,0 +1,30 @@
+body{
+    margin:0;
+    
+}
+.header{
+    background-image: url(img/hero-bg.jpg);
+    background-repeat: no-repeat;
+    
+   
+}
+
+.nav{
+    list-style: none;
+    display:flex;
+    
+}
+.home1{
+    padding: 20px;
+    margin-left: 90px;
+    font-size: 25px;
+}
+.list{
+    display: flex;
+    margin-left: 400px;
+}
+.menu1{
+    padding: 20px 40px;
+    
+}
+
